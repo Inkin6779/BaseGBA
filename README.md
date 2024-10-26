@@ -1,5 +1,4 @@
-# Original
----------
+# Original Readme.md
 # GBA Games Website
 
 https://itfailedemulator.github.io 
